@@ -87,5 +87,5 @@ in any workflow that requires:
 Default Cursor/Claude remains superior for freeform reasoning, code generation, and
 scenarios where structure would be overkill.
 
-TaskMind is not a replacement — it's a complement. It sits *on top of* Claude's AI to
+TaskMind is not a replacement - it's a complement. It sits *on top of* Claude's AI to
 add the workflow layer that raw chat cannot provide.
