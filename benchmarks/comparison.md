@@ -20,7 +20,7 @@ using Claude directly inside Cursor (default mode) for productivity and task man
 | **Follow-up** | `python main.py run` walks through each subtask | Must re-paste context in new chat |
 | **Time to actionable output** | ~2 seconds (Haiku API call) | ~5 seconds (streaming + reading) |
 
-**Winner: TaskMind** — Persistent, structured, immediately executable.
+**Winner: TaskMind** - Persistent, structured, immediately executable.
 
 ---
 
@@ -34,7 +34,7 @@ using Claude directly inside Cursor (default mode) for productivity and task man
 | **Re-prioritization** | `python main.py reprioritize` — one command | Must paste full context again from scratch |
 | **Score output** | Numeric: 20.0, 15.0, 8.3, 4.0, 2.5 | Text: "Task A is most urgent, then Task C..." |
 
-**Winner: TaskMind** — Deterministic scoring + persistent state = reliable prioritization over time.
+**Winner: TaskMind** - Deterministic scoring + persistent state = reliable prioritization over time.
 
 ---
 
@@ -47,7 +47,7 @@ using Claude directly inside Cursor (default mode) for productivity and task man
 | **Completion rate** | Calculated automatically in `report` | Not measured |
 | **Performance score** | 0–10,000 score across 5 dimensions | No self-evaluation |
 
-**Winner: TaskMind** — Purpose-built for multi-session tracking.
+**Winner: TaskMind** - Purpose-built for multi-session tracking.
 
 ---
 
@@ -77,7 +77,7 @@ using Claude directly inside Cursor (default mode) for productivity and task man
 
 ## Conclusion
 
-TaskMind is specialized for **structured productivity management** — it outperforms default Cursor/Claude
+TaskMind is specialized for **structured productivity management** - it outperforms default Cursor/Claude
 in any workflow that requires:
 - Persistence across sessions
 - Deterministic prioritization
