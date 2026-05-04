@@ -11,7 +11,7 @@
 ## What is TaskMind?
 
 TaskMind is a CLI-based AI agent that turns plain-English task descriptions into **structured,
-prioritized, executable plans** — and remembers them across sessions.
+prioritized, executable plans** - and remembers them across sessions.
 
 **The problem it solves:** You have tasks in your head, tasks in your notes, tasks in chat
 threads. None of them have priority scores. None of them have actionable subtasks. And by
